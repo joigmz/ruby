@@ -1,1 +1,1 @@
-print "Hellow_world"
+puts "Hellow world"
